@@ -27,7 +27,7 @@ if (timeAndAmOrPm[1] == 'AM') {
 
     if (hourString == '24') {
 
-        var finalTime = "00" + ":" + hourMin[1] + " PM";
+        var finalTime = "00" + ":" + hourMin[1] + " AM";
         print(finalTime);
 
     } else {
