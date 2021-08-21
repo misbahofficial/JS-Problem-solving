@@ -1,5 +1,5 @@
 
-// prompt-sync, a node module for taking user input in
+// prompt-sync, a node module for taking user input in console
 var ps = require("prompt-sync");
 var input = ps();
 
